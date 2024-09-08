@@ -10,7 +10,7 @@
 
 - **Lenguajes:** JavaScript, Python, SQL
 - **Bases de Datos:** PostgreSQL, MySQL
-- **Frameworks y Herramientas:** Node.js, Express, Git
+- **Frameworks y Herramientas:** Node.js, Express, Git, OpenCV
 - **Otros:** HTML5, CSS3, API Rest
 
 ---
